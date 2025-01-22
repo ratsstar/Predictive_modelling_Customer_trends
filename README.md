@@ -13,4 +13,23 @@ The project aims to address the following analytical objectives/questions:
 3) Identify and summarise common themes and opinions in product reviews and evaluate sentiment to improve overall sales performance by addressing customers' needs related to customer service or products
 ucts
 
+Analytical approach
 
+1) Regression algorithms are employed to identify relevant features that best explain the variance in customer spending behaviour and evaluate possible relationships between features and loyalty point balances to develop predictive models
+2) Centroid-based clustering model used to group customers into clusters based on similarities
+3) Visualisation techniques and summary statistics – to identify patterns and interpret customer clusters, providing valuable insights to inform decision-making
+4) Lexicon-based sentiment analysis tool (VADER) specifically designed for social media text and short sentences and Word Clouds – to assess sentiment and summarise most common themes in product reviews.
+
+Artefacts
+
+1) Technical report covers the following topics:
+   - Descriptive statistical characteristics of the data set
+   - Process of identifying and selecting appropriate features to use
+   - Modelling techniques applied
+   - Model's performance and how this could be used to address the business problem.
+
+2) Business presentation:
+   - High-level overview of the methodology and approach
+   - Patterns, trends, and insights
+   - Recommendations
+   - Further questions to explore
