@@ -2,7 +2,7 @@
 Customer segmentation and spending analysis for a retail company employing clustering, regression algorithms, and NLP techniques to extract insights and develop actionable recommendations for potential sales growth strategies and targeted marketing campaigns.
 
 
-##Background/context of the business scenario
+## Background/context of the business scenario
 
 Business problem: Improving overall sales performance by analysing and considering customer trends.
 
@@ -22,14 +22,14 @@ ucts
 - Product ID: identifies the product associated with the review
 - Language of the review and platform source
 
-##Analytical approach
+## Analytical approach
 
 1) Regression algorithms are employed to identify relevant features that best explain the variance in customer spending behaviour and evaluate possible relationships between features and loyalty point balances to develop predictive models
 2) Centroid-based clustering model used to group customers into clusters based on similarities
 3) Visualisation techniques and summary statistics – to identify patterns and interpret customer clusters, providing valuable insights to inform decision-making
 4) Lexicon-based sentiment analysis tool (VADER) specifically designed for social media text and short sentences and Word Clouds – to assess sentiment and summarise most common themes in product reviews.
 
-##Artefacts
+## Artefacts
 
 1) Technical report covers the following topics:
    - Descriptive statistical characteristics of the data set
@@ -42,3 +42,7 @@ ucts
    - Patterns, trends, and insights
    - Recommendations
    - Further questions to explore
+
+## Contact
+
+Open to networking and collaboation. Feel free to reach out.
